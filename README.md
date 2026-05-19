@@ -3,7 +3,7 @@
 A sleek, modern, and fully responsive personal portfolio website built to showcase my academic background, professional experience, and technical projects.
 
 ## 🚀 Live Demo
-https://my-vcard-portfolio.vercel.app/
+https://portfolio-phi-flame-61.vercel.app/
 
 ## 👤 About Me
 I am a **Computer Science student** at the **University of Agriculture, Faisalabad**, with a keen interest in modern web technologies, automated systems, and financial markets. My goal is to build digital solutions that are both functional and aesthetically pleasing.
